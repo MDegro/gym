@@ -3,6 +3,7 @@ import tensorflow as tf
 
 """
 attempt 1 based on https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0
+and https://keon.github.io/deep-q-learning/
 
 Using a method called Q-learning
 
